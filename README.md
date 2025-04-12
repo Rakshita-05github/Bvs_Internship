@@ -17,5 +17,5 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## View in Vercel App
-Open https://bvs-internship.vercel.app(https://bvs-internship.vercel.app)
+Open [https://bvs-internship.vercel.app](https://bvs-internship.vercel.app)
 
